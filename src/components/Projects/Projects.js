@@ -37,7 +37,7 @@ function Projects() {
               imgPath={CodeSetGo}
               isBlog={false}
               title="CodeSetGo"
-              description="CodeSetGo is a community made for the students and made by the students. It's a place for Tech Enthusiasts to learn the latest technology in the comfort and convenience of their homes! We provide the best learning experience and the latest trends of the tech world at your doorsteps from the minds of highly qualified industry professionals."
+              description="CodeSetGo is a community made for the students and made by the students. It's a place for Tech Enthusiasts to learn the latest technology in the comfort and convenience of their homes!"
               ghLink="https://github.com/agamjotsingh18/codesetgo"
               demoLink="https://codesetgo.netlify.app/"
             />
@@ -48,7 +48,7 @@ function Projects() {
               imgPath={imagerecognitionapi}
               isBlog={false}
               title="Image-Recognition-API"
-              description="This is a web application that provides an API for image recognition using the Clarifai API. It allows you to send images to the API and receive predictions and analysis based on the content of the images."
+              description="This is a web application that provides an API for image recognition using the Clarifai API. It allows you to send images to the API and receive predictions and analysis based on the content of the images. Upload images for recognition and analysis. Receive predictions and analysis results based on the content of the images. Supports multiple image formats."
               ghLink="https://github.com/agamjotsingh18/Image-Recognition-API"
               demoLink="https://image-recognition-api.vercel.app/"              
             />
