@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website <br/>
-  <a href="https://agamjot-singh.vercel.app/" target="_blank">https://agamjot-singh.vercel.app</a>
+  <a href="https://agamjot-singh.vercel.app/" target="_blank">agamjot-singh.vercel.app</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
