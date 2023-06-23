@@ -6,7 +6,7 @@ let timelineElements = [
       description:
 "Acting as the bridge between the students, faculty and co-ordinating with the team. Managing student community, providing active support, troubleshooting queries, and handling escalations.",
       buttonText: "View Frontend Projects",
-      date: "Augustust 2022 - present",
+      date: "August 2022 - present",
       icon: "work",
     },
     {
@@ -16,7 +16,7 @@ let timelineElements = [
       description:
         "Working hand-in-hand with front-end developers by providing the outward facing web application elements server-side logic. Creating the logic to make the web app function properly, and accomplishing this through the use of server-side scripting languages.",
       buttonText: "View Backend Projects",
-      date: "July 2022 - Octoberober 2022",
+      date: "July 2022 - October 2022",
       icon: "work",
     },
     {
@@ -26,7 +26,7 @@ let timelineElements = [
       description:
 "Future Ready Talent is a virtual internship platform with an opportunity to learn the in-demand azure cloud & security skills aligned to industry needs. The program aims at preparing learners work towards solving business challenges and creating inNovemberative solutions using the power of Microsoft Azure & GitHub tools.",
       buttonText: "Company Website",
-      date: "Octoberober 2021 - Octoberober 2022",
+      date: "October 2021 - October 2022",
       icon: "work",
     },
     {
@@ -85,7 +85,7 @@ let timelineElements = [
       location: "SAWO Labs",
       description:
 "SAWO is an authentication solution that can onboard users without any passwords or OTPs, thus making the process hassle-free, quick and secure.",
-      date: "Januaryuary 2022 - Januaryuary 2023",
+      date: "January 2022 - January 2023",
       icon: "work",
     },
     {

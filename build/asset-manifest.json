@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/agamjotsingh18.github.io/static/css/main.c6c4e385.css",
+    "main.js": "/agamjotsingh18.github.io/static/js/main.1e5aa541.js",
+    "static/js/415.4d6acbeb.chunk.js": "/agamjotsingh18.github.io/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/agamjotsingh18.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/rent-a-property.png": "/agamjotsingh18.github.io/static/media/rent-a-property.e29df9b2787856f8c1ca.png",
+    "static/media/CodeSetGo.png": "/agamjotsingh18.github.io/static/media/CodeSetGo.815ea1096b3a7a81dec0.png",
+    "static/media/image-recognition-api.png": "/agamjotsingh18.github.io/static/media/image-recognition-api.51c2ee390200b96e68a6.png",
+    "static/media/memeGenerator.png": "/agamjotsingh18.github.io/static/media/memeGenerator.5f8a17f067381d8c79c3.png",
+    "static/media/github-r.png": "/agamjotsingh18.github.io/static/media/github-r.056dd2b43baca108652e.png",
+    "static/media/home-main.svg": "/agamjotsingh18.github.io/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/agamjotsingh18.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/hostel.jpeg": "/agamjotsingh18.github.io/static/media/hostel.43a79ad5bbb47b15a14f.jpeg",
+    "static/media/pollitup.png": "/agamjotsingh18.github.io/static/media/pollitup.4ff0ff7841fc95c47feb.png",
+    "static/media/Resume_Agamjot_Singh.pdf": "/agamjotsingh18.github.io/static/media/Resume_Agamjot_Singh.a50cce11e9d7a83f70e7.pdf",
+    "static/media/home-bg.jpg": "/agamjotsingh18.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/agamjot-singh-low-resolution-logo-color-on-transparent-background.png": "/agamjotsingh18.github.io/static/media/agamjot-singh-low-resolution-logo-color-on-transparent-background.80177cbe9366b88ca63c.png",
+    "static/media/pre.svg": "/agamjotsingh18.github.io/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/agamjotsingh18.github.io/index.html",
+    "static/media/work.svg": "/agamjotsingh18.github.io/static/media/work.3710b62484ed638074240e99317c6c60.svg",
+    "main.c6c4e385.css.map": "/agamjotsingh18.github.io/static/css/main.c6c4e385.css.map",
+    "main.1e5aa541.js.map": "/agamjotsingh18.github.io/static/js/main.1e5aa541.js.map",
+    "415.4d6acbeb.chunk.js.map": "/agamjotsingh18.github.io/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/agamjotsingh18.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6c4e385.css",
+    "static/js/main.1e5aa541.js"
+  ]
+}
