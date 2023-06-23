@@ -1,7 +1,6 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://agamjotsingh18.github.io/agamjotsingh18.github.io",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
@@ -50,8 +49,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
   }
 }
